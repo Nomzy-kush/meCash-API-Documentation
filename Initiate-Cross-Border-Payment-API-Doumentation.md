@@ -17,7 +17,7 @@ To start using the MeCash API, ensure you provide a valid Bearer token in the re
 ## **Initiate Cross-Border Payment**  
 Use the `POST /api/v1/payments` endpoint to securely initiate transactions between senders and recipients.
 
-![cross_border_payment_flow.drawio](https://hackmd.io/_uploads/HyZSMts9kg.png)
+![cross_border_payment_flow.drawio](./cross_border_payment_flow.drawio.png)
 
 
 ### **Endpoint**  
