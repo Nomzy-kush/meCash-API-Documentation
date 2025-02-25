@@ -13,7 +13,7 @@ The full API documentation is available in Markdown format and provides clear in
 
 ## Viewing the Documentation  
 ### Option 1: Directly in GitHub  
-You can view the documentation directly by opening [**Initiate Cross-Border Payment API Documentation**](./Initiate%20Cross-Border%20Payment%20API%20Documentation.md) in this repository.  
+You can view the documentation directly by opening [**Initiate Cross-Border Payment API Documentation**](./Initiate Cross-Border Payment API Doumentation.md.md) in this repository.  
 
 ### Option 2: Using a Markdown Viewer  
 For better readability, you can use a Markdown viewer such as:  
